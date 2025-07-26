@@ -1,4 +1,4 @@
-#🧠 **Brain Tumor Classification from MRI dataset**
+# 🧠 **Brain Tumor Classification from MRI dataset**
 
 # **What is a brain tumor ?**
 A brain tumor is a collection, or mass, of abnormal cells in your brain. Your skull, which encloses your brain, is very rigid. Any growth inside such a restricted space can cause problems. Brain tumors can be cancerous (malignant) or noncancerous (benign). When benign or malignant tumors grow, they can cause the pressure inside your skull to increase. This can cause brain damage, and it can be life-threatening.
